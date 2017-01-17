@@ -1,0 +1,5 @@
+pg 5.
+Per tant, entenem per aplicació resilient aquella que segueix donant servei 
+a un determinat nivell de qualitat després d’haver patit errors. 
+Des del cas desitjat; que l’usuari no se n'adoni, passant per la degradació gradual, recuperar-se 
+o inclús prevenir aquests errors.
