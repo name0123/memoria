@@ -1,0 +1,87 @@
+a diferència d'en Michael
+proposats per en Michael 
+
+què vols dir amd determinista? Per què surt tant?
+no surt tant! - 3 cops
+
+Nota 3 peu pag 6 hauria de ser bibl
+ok
+
+Ja no prens com a base l'aplicació de PES? 
+Implementarem un mòdul de
+Machine Learning, que amb l’ajuda de la regressió lineal, vigila un mètode que resol un
+polinomi de segon grau.??
+A 4.1 diu que es fa servir pràtica de PES però potser ja s'hauria de dir al començament de la mem, en la part inicial
+si, per suposat!
+
+En quant a la segona part, la implementació es farà utilitzant la metodologia
+agile, fent sprints setmanals i reunions amb el director. En cada reunió s’avaluarà la
+feina feta. També és presentaran les històries d’usuaris del backlog 7 a implementar pel
+proper sprint.??
+ok - fora
+
+S'HA FET AIXÒ?
+Pretenem resumir i analitzar quan creguem necessari els principis que ja
+s’han proposat en aquest tema. També ens proposem aportar alguns principis propis i
+finalment volem implementar i estudiar els beneficis d’aplicar aquests principis al
+software.
+sip
+
+No entenc per què hi ha apartats 2.3 i 2.4
+
+
+
+
+2.5 no seria més aviat riscos?
+
+TASQUES DE LA TAULA 5 / DIAGRAMA GANT EXPLICADES A EXECUCIÓ PROJ?
+
+3 i 4 són tos dos execució de projecte
+
+ Complete Parameter Checking s'explica confusament
+
+Fig 15 és una arq sw?
+
+3.4: què és una equivalence sequence? Caldria definir què signifiquen els números del paràgraf sota taula 16
+
+3.5: primer paràgraf confús
+
+mode offline és un cas particular de patrons d'en Michael?
+
+4.1 Diu que l'apl es diu Hangaround però en un peu de pag es diu mobility?
+
+4.2 Canviar títol "Casos d'ús"?
+
+Com ja hem mencionat(link als principis)
+
+Considerem com a cas ideal d’aplicar resiliència a una aplicació mitjançant un
+disseny extensible, es a dir, una arquitectura de plugins....
+HEM CANVIAT DE SECCIÓ O ENCARA ÉS 4.2.2??
+
+ha calgut implementar de
+manera acoblada els mètodes que permeten comprovar en background...
+QUÈ VOL DIR EXACATAMENT AIXÒ?
+
+Falta el disseny/impl/proves d'allò que afegit o modificat
+
+Justificar avaluacions taula 23, explicar quins resultats tenim de cada objectiu
+
+S’ha seguit la planificació, encara que hi ha hagut canvis en el control de la gestió
+temporal
+QUINS CANVIS?
+
+5.2
+Més detall de cada tasca
+
+5.3
+Hauria de ser més aviat treball futur a fer a partir del que has fet tu
+
+
+El risc plantejat no s’ha donat,
+QUIN RISC?
+
+HAN CALGUT TANT MARGE DE DOC COM DE PROGR?
+
+OPINIÓ DEL DIRECTOR/EVERIS?
+
+RÚBRIQUES
